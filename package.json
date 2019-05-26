@@ -1,0 +1,22 @@
+{
+  "name": "selenium-practice",
+  "version": "1.0.0",
+  "description": "Practice code for automation using Selenium/NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitsarkar007/Selenium-Practice.git"
+  },
+  "author": "Amit Sarkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitsarkar007/Selenium-Practice/issues"
+  },
+  "homepage": "https://github.com/amitsarkar007/Selenium-Practice#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
