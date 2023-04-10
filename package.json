@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/amitsarkar007/Selenium-Practice#readme",
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.1"
+    "selenium-webdriver": "^4.8.2"
   }
 }
